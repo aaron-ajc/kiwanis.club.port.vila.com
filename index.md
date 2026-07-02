@@ -3,7 +3,7 @@ meta-viewport: width=device-width, initial-scale=1.0
 title: Kiwanis Club of Port Vila - Payment Information
 ---
 
-![Kiwanis Club Logo](https://sabiut.github.io/kiwanis.club.port.vila.com/kiwanis_port_vila_logo.png)
+![Kiwanis Club Logo](logo.png)
 
 # Kiwanis Club of Port Vila
 
