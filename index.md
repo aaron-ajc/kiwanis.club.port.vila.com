@@ -3,7 +3,7 @@ meta-viewport: width=device-width, initial-scale=1.0
 title: Kiwanis Club of Port Vila - Payment Information
 ---
 
-![Kiwanis Club Logo](logo.png)
+<img src="logo.png" alt="Kiwanis Club Logo" width="150">
 
 # Kiwanis Club of Port Vila
 
